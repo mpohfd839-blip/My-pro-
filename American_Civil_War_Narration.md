@@ -579,7 +579,7 @@ People like to say that before the war, Americans tended to talk about the Unite
 
 *[Final slow zoom out from America to the full globe.]*
 
-One letter. Six hundred thousand lives.
+One word. Six hundred thousand lives.
 
 *[Caption: "United."]*
 
