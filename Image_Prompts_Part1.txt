@@ -16,7 +16,7 @@
 
 07 [00:21] an old paper calendar with pages flying off, years 1861 to 1865, smoke drifting behind, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-08 [00:21] endless rows of small white grave markers stretching to the horizon at sunset, sombre and respectful, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+08 [00:25] endless rows of small white grave markers stretching to the horizon at sunset, sombre and respectful, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
 09 [00:33] a large cracked brass liberty bell under a dramatic spotlight, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
@@ -36,7 +36,7 @@
 
 17 [01:28] a single giant fluffy cotton boll glowing under a dramatic spotlight, centred, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-18 [01:28] cartoon ocean with ships carrying huge cotton bales from America across to busy British textile mills, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+18 [01:31] cartoon ocean with ships carrying huge cotton bales from America across to busy British textile mills, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
 19 [01:46] a cotton boll whose long shadow turns into heavy iron chains, dark ominous mood, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
@@ -44,7 +44,7 @@
 
 21 [02:05] a big old balance scale, tiny trains and factories on one side, an old plantation ledger book on the other side weighing far more, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-22 [02:22] a cute original stick-figure narrator with a round white head, big expressive eyes, a brown wide-brim explorer hat and a red scarf scratching its head, floating question marks around him, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
+22 [02:22] a cute original stick-figure narrator with a round white head, big expressive eyes, a brown wide-brim explorer hat and a red scarf scratching its head, floating question marks around it, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
 23 [02:30] aged parchment declaration with a feather quill and inkpot, warm candle light, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
@@ -102,7 +102,7 @@
 
 50 [06:45] friendly cartoon portrait of Abraham Lincoln, very tall, black stovepipe hat, beard, black suit, warm smile, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-51 [06:45] a small log cabin in the woods, a young lanky boy reading a book by the fireplace, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+51 [06:48] a small log cabin in the woods, a young lanky boy reading a book by the fireplace, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
 52 [06:54] cartoon Abraham Lincoln placing a big stop sign at the edge of the western frontier, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
@@ -132,32 +132,34 @@
 
 65 [09:22] cheering young recruits in blue and grey uniforms throwing hats in the air, flags waving, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-66 [09:47] a giant cartoon green anaconda wrapping around the southern United States and slowly squeezing, stylised satellite-view map, deep blue ocean, green and brown land, soft lighting, no text, no labels, 16:9
+66 [09:31] a big balance scale, the left side piled with factories, trains and soldiers, the right side small but stubborn, determined and holding on, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-67 [10:04] long column of blue-uniformed soldiers marching down a dusty country road in summer, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+67 [09:47] a giant cartoon green anaconda wrapping around the southern United States and slowly squeezing, stylised satellite-view map, deep blue ocean, green and brown land, soft lighting, no text, no labels, 16:9
 
-68 [10:12] well-dressed 1860s ladies and gentlemen having a picnic on a grassy hill with baskets and parasols, watching smoke in the distance, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+68 [10:04] long column of blue-uniformed soldiers marching down a dusty country road in summer, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-69 [10:30] a stern general on horseback standing completely still like a stone statue while chaos swirls around him, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+69 [10:12] well-dressed 1860s ladies and gentlemen having a picnic on a grassy hill with baskets and parasols, watching smoke in the distance, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-70 [10:44] chaos: running soldiers crashing into overturned picnic carriages, flying sandwiches and parasols, comedic, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+70 [10:30] a stern general on horseback standing completely still like a stone statue while chaos swirls around him, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-71 [10:58] map of the central United States with the Mississippi and Tennessee rivers glowing bright blue, stylised satellite-view map, deep blue ocean, green and brown land, soft lighting, no text, no labels, 16:9
+71 [10:44] chaos: running soldiers crashing into overturned picnic carriages, flying sandwiches and parasols, comedic, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-72 [11:09] cartoon portrait of Ulysses S. Grant, scruffy beard, cigar in mouth, rumpled blue uniform, calm look, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
+72 [10:58] map of the central United States with the Mississippi and Tennessee rivers glowing bright blue, stylised satellite-view map, deep blue ocean, green and brown land, soft lighting, no text, no labels, 16:9
 
-73 [11:21] a riverside fort raising a white flag while gunboats wait on the river, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+73 [11:09] cartoon portrait of Ulysses S. Grant, scruffy beard, cigar in mouth, rumpled blue uniform, calm look, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
 
-74 [11:37] a small log church in a peaceful spring forest at dawn, soft light, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+74 [11:21] a riverside fort raising a white flag while gunboats wait on the river, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-75 [11:44] misty battlefield aftermath, broken cannons and wagons, drifting smoke, sombre, no gore, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+75 [11:37] a small log church in a peaceful spring forest at dawn, soft light, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-76 [11:59] Union warships steaming into New Orleans harbour, city buildings along the river, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+76 [11:44] misty battlefield aftermath, broken cannons and wagons, drifting smoke, sombre, no gore, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-77 [12:08] two strange iron warships firing at each other, one flat with a round turret, one with a sloped iron roof, cannonballs bouncing off, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+77 [11:59] Union warships steaming into New Orleans harbour, city buildings along the river, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-78 [12:20] old wooden sailing warships covered in cobwebs, looking sad and old-fashioned, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
+78 [12:08] two strange iron warships firing at each other, one flat with a round turret, one with a sloped iron roof, cannonballs bouncing off, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-79 [12:27] cartoon General George McClellan in a neat uniform looking through binoculars at a giant imaginary shadow army, nervous, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
+79 [12:20] old wooden sailing warships covered in cobwebs, looking sad and old-fashioned, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, full scene background, no text, 16:9
 
-80 [12:43] cartoon Abraham Lincoln holding out his hand toward a nervous general, asking, comedic, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
+80 [12:27] cartoon General George McClellan in a neat uniform looking through binoculars at a giant imaginary shadow army, nervous, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
+
+81 [12:43] cartoon Abraham Lincoln holding out his hand toward a nervous general, asking, comedic, flat 2D cartoon illustration, clean thick black outlines, soft muted colours, simple fun doodle style, plain light grey background, no text, 16:9
